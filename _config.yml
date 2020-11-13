@@ -14,12 +14,12 @@ author: Junhyuk Baik
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Author's home: "https://deeptwinkle.github.io"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jhb607@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  instagram: gravity.100
+  github: deeptwinkle
+  telephone: +821052131708
 #  patreon: DeanAttali
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,20 +64,20 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+  email: true
+  instagram: true
+  github: true
+  telephone: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Hyuklog.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -186,7 +186,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
