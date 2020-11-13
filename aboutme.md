@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 컴잘알 준혁님의 
+subtitle: 컴잘알 준혁님의 Info
 ---
 
 My name is Junhyuk Baik. I have the following qualities:
