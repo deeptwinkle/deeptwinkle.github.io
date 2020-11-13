@@ -14,7 +14,7 @@ author: Junhyuk Baik
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Author's home: "https://deeptwinkle.github.io"
+  Home: "https://deeptwinkle.github.io"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
